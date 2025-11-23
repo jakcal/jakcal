@@ -11,3 +11,4 @@
 [![](https://visitcount.itsvg.in/api?id=JAKCAL&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fjakcal&countColor=%23263759&style=flat-square)
