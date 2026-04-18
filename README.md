@@ -1,10 +1,11 @@
 # Hey, I'm Yassine 👋
 
-Problem solver by day. Chess player by night.
+Senior full-stack engineer based in Casablanca 🇲🇦. Writing code since I was 13 — self-taught, 10+ years professional, still obsessed with shipping things people actually use.
 
-I've been writing code since I was 13
+Problem solver by day. Chess player by night. ♟️
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@yassinech.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://yassinech.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@yassinech.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=FF7139)](https://yassinech.com)
 
 ---
 
