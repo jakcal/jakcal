@@ -38,8 +38,10 @@ Problem solver by day. Chess player by night. ♟️
 ![](https://streak-stats.demolab.com?user=jakcal&theme=green-nur&border_radius=5.3)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakcal&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jakcal&theme=solarized-light&no-frame=true&no-bg=false&margin-w=4)
+---
+
+📫 **me@yassinech.com** · 🌐 **[yassinech.com](https://yassinech.com)**
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fjakcal&countColor=%23263759&style=flat-square)
