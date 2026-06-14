@@ -2,10 +2,27 @@
 
 Senior full-stack engineer based in Casablanca 🇲🇦. Writing code since I was 13 — self-taught, 10+ years professional, still obsessed with shipping things people actually use.
 
-Problem solver by day. Chess player by night. ♟️
+I build the whole stack: mobile, web, backend, and the server it all runs on. One pair of hands, zero hand-offs.
+
+♟️ Problem solver by day, chess player by night.
+
+**Open to freelance work · Top Rated on Upwork.** Most of my production work is client or under NDA, so GitHub only shows part of the picture — the rest lives at [yassinech.com](https://yassinech.com).
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@yassinech.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=FF7139)](https://yassinech.com)
+
+---
+
+### Stuff I've shipped
+
+A lot of my best work is private or under NDA, so here's the short version:
+
+- **AnimeHub / Karanime** — Flutter streaming app · 5M+ downloads, 1M+ monthly users
+- **StockCRM** — multi-tenant SaaS · Bun · TypeScript · PostgreSQL · Redis · AI agent workflows
+- **Phantom.ma** — luxury goods marketplace · Next.js 15
+- **Krylia** — property rental marketplace · React · TypeScript
+
+The public repos pinned below are personal projects — the client work doesn't make it onto GitHub.
 
 ---
 
@@ -33,15 +50,12 @@ Problem solver by day. Chess player by night. ♟️
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jakcal&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=jakcal&theme=green-nur&border_radius=5.3)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakcal&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jakcal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,contribs)<br/>
+![](https://streak-stats.demolab.com?user=jakcal&theme=tokyonight&hide_border=true&border_radius=5)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&hide=php,html,css)
 
 ---
 
 📫 **me@yassinech.com** · 🌐 **[yassinech.com](https://yassinech.com)**
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fjakcal&countColor=%23263759&style=flat-square)
